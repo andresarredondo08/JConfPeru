@@ -1,0 +1,5 @@
+org/example/config/RoutingConfig.class
+org/example/handler/GreetingHandler.class
+org/example/RoutingDemoApplication.class
+org/example/model/Greeting.class
+org/example/repository/GreetingRepository.class
